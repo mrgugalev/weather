@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="0" android:background="dd3d3d3" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="15dp" android:layout_marginTop="10dp" android:layout_marginRight="15dp">
-	<ImageView android:layout_width="-1" android:layout_height="-2" android:src="res/drawable-v24/weatherone.png" android:layout_weight="{4:1065353216}" />
-	<TextView android:textSize="80sp" android:textColor="ffffff" android:paddingTop="90dp" android:layout_width="-1" android:layout_height="-1" android:text="20°C" android:layout_weight="{4:1065353216}" android:textAlignment="4" />
-</LinearLayout>
